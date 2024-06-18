@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177100096092",
+    "project_id": "abiturientapp2024",
+    "storage_bucket": "abiturientapp2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177100096092:android:1cacdb72d936691b6c9c99",
+        "android_client_info": {
+          "package_name": "com.example.newapp2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgBBPJR6BCeqHoVzX5Of_FPaSynnf37A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

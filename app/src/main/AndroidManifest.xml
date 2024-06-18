@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.newapp2024">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NewApp2024">
+        <activity
+            android:name=".ProbabilitySudExpertVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SudExpertVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityRadioElSystemVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RadioElSystemVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilitySecureAutoSystemVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecureAutoSystemVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityCompSecureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CompSecureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilitySecureTeleSystemVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecureTeleSystemVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IPTVolguSpecActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IPTVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityLandArchitectureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LandArchitectureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityTechSecureVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TechSecureVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityBioTechVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BioTechVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BioVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityBioVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityCardAndGeoVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardAndGeoVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityGeologVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GeologVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityBioInjAndBioInfIENVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BioInjAndBioInfIENVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IENSpecVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IENVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityUrSprudZaOchniVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UrSprudZaOchniVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UrSprudOchniVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilitySudZAOchnoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SudZaochnoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilitySudOchoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SudOchnoVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PravaSpecActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstPravaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityFotonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FotonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityRadioTechActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RadioTechActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityPIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityIVTActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IVTActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityRadioPhysicActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RadioPhysicActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityPMFActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PMFActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityMOSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MOSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityMKNActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MKNActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProbabilityPMIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PMIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IMITSpecActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RedisterPage"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".IMITVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstituteVolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VolGTUActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VolguObjActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VolguActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

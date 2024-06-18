@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/volgu_menu" android:title="ВолГУ"
+        android:icon="@drawable/ic_baseline_business_center_24">
+        <menu>
+            <item android:id="@+id/imitVolgu" android:title="ИМИТ" >
+                <menu>
+                    <item android:title="EEE"/>
+                    <item android:title="2"/>
+                    <item android:title="3"/>
+                </menu>
+            </item>
+            <item android:title="ИП">
+                <menu>
+                    <item android:title="1"/>
+                    <item android:title="2"/>
+                    <item android:title="3"/>
+                    <item android:title="4"/>
+                </menu>
+            </item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/volgtu_menu" android:title="ВолГТУ"
+        android:icon="@drawable/ic_baseline_business_center_24"/>
+    <item android:id="@+id/volgmu_menu" android:title="ВолГМУ"
+        android:icon="@drawable/ic_baseline_business_center_24"/>
+    <item android:id="@+id/vgafk_menu" android:title="ВГАФК"
+        android:icon="@drawable/ic_baseline_business_center_24"/>
+    <item android:id="@+id/vgspu_menu" android:title="ВГСПУ"
+        android:icon="@drawable/ic_baseline_business_center_24"/>
+    <item android:id="@+id/volgau_menu" android:title="ВолГАУ"
+        android:icon="@drawable/ic_baseline_business_center_24"/>
+
+
+</menu>

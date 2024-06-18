@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="400dp"
+    android:layout_height="600dp"
+    app:layout_constraintTop_toTopOf="parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/moreAboutIenConstraint">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layoutAboutIen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_volgu_bkg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/checkVolguTittle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Институт естественных наук обладает необходимым потенциалом для реализации современной подготовки бакалавров, специалистов и магистров. Учебный процесс обеспечивает 81 преподаватель, в том числе 16 докторов и 36 кандидатов наук.
+Занятия проводятся в современных учебных лабораториях экспериментальной биологии, фотограмметрии и электронного картографирования, эколого-аналитической лаборатории, учебно-научной геоэкологической лаборатории, учебно-исследовательской лаборатории генной инженерии, учебно-исследовательских биологической, биохимической и микробиологической лабораториях. Специализированные кабинеты, обеспеченные литературой и наглядными материалами, способствуют успешному освоению профильных дисциплин."
+            android:textColor="@color/cardColor"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="2dp" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

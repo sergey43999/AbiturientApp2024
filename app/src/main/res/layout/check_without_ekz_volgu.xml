@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/CheckWithoutEkzVolgu">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layoutCheckWithoutEkzVolgu"
+        android:layout_width="293dp"
+        android:layout_height="220dp"
+        android:background="@drawable/custom_volgu_bkg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/checkVolguTittle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Вероятность вашего поступления в университет без учета экзаменов составляет:"
+            android:textColor="@color/cardColor"
+            android:textSize="20sp"
+            app:layout_constraintTop_toTopOf="@id/layoutCheckWithoutEkzVolgu" />
+
+        <TextView
+            android:id="@+id/resultCheckVolguWithoutEkz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:text="test"
+            android:textColor="@color/cardColor"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/checkVolguTittle" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/endBtnVolguCheckWithoutEkz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/custom_button"
+            android:text="Закрыть"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/resultCheckVolguWithoutEkz" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

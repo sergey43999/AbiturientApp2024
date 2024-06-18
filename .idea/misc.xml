@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/custom_alert_bg.xml" value="0.1905" />
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/custom_alert_dialog.xml" value="0.1905" />
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/custom_button.xml" value="0.2595" />
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/custom_edittext.xml" value="0.1905" />
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/custom_volgu_bkg.xml" value="0.1905" />
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/ic_baseline_business_center_24.xml" value="0.1905" />
+        <entry key="..\:/NewApp2024/app/src/main/res/drawable/search_bg.xml" value="0.1905" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_bio_inj_and_bio_inf_ienvolgu.xml" value="0.264" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_bio_tech_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_bio_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_card_and_geo_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_comp_secure.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_eko_and_nature_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_foton.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_geolog_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_ienspec_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_ienvolgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_imitspec.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_imitvolgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_inst_prava.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_institute_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_iptvolgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_iptvolgu_spec.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_ivtactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_land_architecture.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_login_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_mknactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_mosactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_piactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_pmfactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_pmiactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_prava_spec.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_bio_inj_and_bio_inf_ienvolgu.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_bio_tech_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_bio_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_card_and_geo_volgu.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_comp_secure.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_foton.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_geolog_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_ivtactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_land_architecture.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_mknactivity.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_mosactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_piactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_pmfactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_pmiactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_radio_el_system_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_radio_physic.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_radio_tech.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_secure_auto_system_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_secure_tele_system_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_sud_expert_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_sud_ocho.xml" value="0.215625" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_sud_zaochno.xml" value="0.215625" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_tech_secure_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_ur_sprud_ochni_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_probability_ur_sprud_za_ochni_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_radio_el_system_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_radio_physic.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_radio_tech.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_redister_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_secure_auto_system_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_secure_tele_system_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_sud_expert_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_sud_ochno_volgu.xml" value="0.215625" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_sud_zaochno.xml" value="0.215625" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_tech_secure_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_ur_sprud_ochni_volgu.xml" value="0.215625" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_ur_sprud_za_ochni_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_vol_gtuactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/activity_volgu_obj.xml" value="0.25" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/check_probability_pmi.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/check_without_ekz_volgu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/custom_alert_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/more_about_ien.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/more_about_imit.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/more_about_ipt.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/more_about_pravo.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/layout/recycler_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewApp2024/app/src/main/res/menu/nav_menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
